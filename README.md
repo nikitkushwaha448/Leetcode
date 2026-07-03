@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nikitkushwaha448/Stack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
+| [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 ## Stack
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0591-tag-validator](https://github.com/nikitkushwaha448/Stack/tree/master/0591-tag-validator) |
+| [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+| [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+| [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 ## Matrix
 |  |
 | ------- |
@@ -55,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
+## Ordered Set
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
