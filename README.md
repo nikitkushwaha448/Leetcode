@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [3878-count-good-subarrays](https://github.com/nikitkushwaha448/Stack/tree/master/3878-count-good-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [3878-count-good-subarrays](https://github.com/nikitkushwaha448/Stack/tree/master/3878-count-good-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [3878-count-good-subarrays](https://github.com/nikitkushwaha448/Stack/tree/master/3878-count-good-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3878-count-good-subarrays](https://github.com/nikitkushwaha448/Stack/tree/master/3878-count-good-subarrays) |
 <!---LeetCode Topics End-->
