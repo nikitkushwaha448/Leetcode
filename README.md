@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nikitkushwaha448/Stack/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
 | [0591-tag-validator](https://github.com/nikitkushwaha448/Stack/tree/master/0591-tag-validator) |
+| [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0591-tag-validator](https://github.com/nikitkushwaha448/Stack/tree/master/0591-tag-validator) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
+| [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
+| [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
 ## Greedy
 |  |
 | ------- |
