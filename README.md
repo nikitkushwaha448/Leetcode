@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
@@ -77,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
+## Hash Table
+|  |
+| ------- |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 <!---LeetCode Topics End-->
