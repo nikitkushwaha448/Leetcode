@@ -103,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3878-count-good-subarrays](https://github.com/nikitkushwaha448/Stack/tree/master/3878-count-good-subarrays) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
