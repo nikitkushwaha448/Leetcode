@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
+| [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Simulation
 |  |
@@ -111,8 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+| [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
