@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
+| [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
+| [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Simulation
 |  |
@@ -109,15 +111,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+| [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 ## Queue
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
 | [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
+| [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+| [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 ## Sliding Window
 |  |
 | ------- |
