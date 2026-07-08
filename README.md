@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Ordered Set
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
 | [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
 | [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Data Stream
 |  |
 | ------- |
@@ -131,4 +136,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+## Binary Search
+|  |
+| ------- |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
