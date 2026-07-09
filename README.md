@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nikitkushwaha448/Stack/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
+| [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 | [0591-tag-validator](https://github.com/nikitkushwaha448/Stack/tree/master/0591-tag-validator) |
 | [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
+| [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 | [0591-tag-validator](https://github.com/nikitkushwaha448/Stack/tree/master/0591-tag-validator) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+## Depth-First Search
+|  |
+| ------- |
+| [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 <!---LeetCode Topics End-->
