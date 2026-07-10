@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
 | [1124-longest-well-performing-interval](https://github.com/nikitkushwaha448/Stack/tree/master/1124-longest-well-performing-interval) |
+| [1172-dinner-plate-stacks](https://github.com/nikitkushwaha448/Stack/tree/master/1172-dinner-plate-stacks) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/nikitkushwaha448/Stack/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2751-robot-collisions](https://github.com/nikitkushwaha448/Stack/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -103,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/nikitkushwaha448/Stack/tree/master/1124-longest-well-performing-interval) |
+| [1172-dinner-plate-stacks](https://github.com/nikitkushwaha448/Stack/tree/master/1172-dinner-plate-stacks) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1172-dinner-plate-stacks](https://github.com/nikitkushwaha448/Stack/tree/master/1172-dinner-plate-stacks) |
 | [1499-max-value-of-equation](https://github.com/nikitkushwaha448/Stack/tree/master/1499-max-value-of-equation) |
 | [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nikitkushwaha448/Stack/tree/master/0933-number-of-recent-calls) |
+| [1172-dinner-plate-stacks](https://github.com/nikitkushwaha448/Stack/tree/master/1172-dinner-plate-stacks) |
 | [1825-finding-mk-average](https://github.com/nikitkushwaha448/Stack/tree/master/1825-finding-mk-average) |
 ## Queue
 |  |
