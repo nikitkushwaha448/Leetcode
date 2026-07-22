@@ -161,13 +161,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/nikitkushwaha448/Stack/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/nikitkushwaha448/Stack/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
