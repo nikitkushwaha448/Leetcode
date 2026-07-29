@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
+| [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,13 +180,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
