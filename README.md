@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nikitkushwaha448/Stack/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 | [0591-tag-validator](https://github.com/nikitkushwaha448/Stack/tree/master/0591-tag-validator) |
 | [1106-parsing-a-boolean-expression](https://github.com/nikitkushwaha448/Stack/tree/master/1106-parsing-a-boolean-expression) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
@@ -176,8 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
