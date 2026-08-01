@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikitkushwaha448/Stack/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/nikitkushwaha448/Stack/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/nikitkushwaha448/Stack/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikitkushwaha448/Stack/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/nikitkushwaha448/Stack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikitkushwaha448/Stack/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
