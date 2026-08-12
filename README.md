@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikitkushwaha448/Stack/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0993-cousins-in-binary-tree) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/nikitkushwaha448/Stack/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Union-Find
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikitkushwaha448/Stack/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikitkushwaha448/Stack/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikitkushwaha448/Stack/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0099-recover-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
