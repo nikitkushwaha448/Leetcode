@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0388-longest-absolute-file-path](https://github.com/nikitkushwaha448/Stack/tree/master/0388-longest-absolute-file-path) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
 | [0993-cousins-in-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0993-cousins-in-binary-tree) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/nikitkushwaha448/Stack/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Union-Find
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/nikitkushwaha448/Stack/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
