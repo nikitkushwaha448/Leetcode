@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikitkushwaha448/Stack/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikitkushwaha448/Stack/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikitkushwaha448/Stack/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0275-h-index-ii) |
 | [0321-create-maximum-number](https://github.com/nikitkushwaha448/Stack/tree/master/0321-create-maximum-number) |
 | [0975-odd-even-jump](https://github.com/nikitkushwaha448/Stack/tree/master/0975-odd-even-jump) |
 | [1124-longest-well-performing-interval](https://github.com/nikitkushwaha448/Stack/tree/master/1124-longest-well-performing-interval) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikitkushwaha448/Stack/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0275-h-index-ii) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/nikitkushwaha448/Stack/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Depth-First Search
 |  |
