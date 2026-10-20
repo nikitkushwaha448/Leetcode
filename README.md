@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/nikitkushwaha448/Stack/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikitkushwaha448/Stack/tree/master/0687-longest-univalue-path) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nikitkushwaha448/Stack/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0404-sum-of-left-leaves](https://github.com/nikitkushwaha448/Stack/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0993-cousins-in-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0993-cousins-in-binary-tree) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/nikitkushwaha448/Stack/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Union-Find
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nikitkushwaha448/Stack/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikitkushwaha448/Stack/tree/master/0687-longest-univalue-path) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nikitkushwaha448/Stack/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/nikitkushwaha448/Stack/tree/master/0687-longest-univalue-path) |
