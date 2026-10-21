@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0508-most-frequent-subtree-sum) |
 | [1124-longest-well-performing-interval](https://github.com/nikitkushwaha448/Stack/tree/master/1124-longest-well-performing-interval) |
 | [1172-dinner-plate-stacks](https://github.com/nikitkushwaha448/Stack/tree/master/1172-dinner-plate-stacks) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/nikitkushwaha448/Stack/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/nikitkushwaha448/Stack/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikitkushwaha448/Stack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nikitkushwaha448/Stack/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikitkushwaha448/Stack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nikitkushwaha448/Stack/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/nikitkushwaha448/Stack/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikitkushwaha448/Stack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/nikitkushwaha448/Stack/tree/master/0572-subtree-of-another-tree) |
@@ -281,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/nikitkushwaha448/Stack/tree/master/0337-house-robber-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/nikitkushwaha448/Stack/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->
